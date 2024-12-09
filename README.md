@@ -68,3 +68,16 @@ and switch to version 17 by using command
 ```bash
 nvm use 17
 ```
+
+## IMPORTANT NOTES
+
+1. ** Pls downgrade your node version to 17 for smooth expreince **
+2. you can do so by installing nvm in windows manualy running following commands
+
+bash
+nvm install 17
+
+and switch to version 17 by using command
+bash
+nvm use 17
+
